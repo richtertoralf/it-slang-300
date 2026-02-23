@@ -56,3 +56,59 @@
 | 🧪 Grep | Text‑Greifer | Findet alles. Immer. |
 | 🧲 Sed | Text‑Magier | Verändert Text im Vorbeigehen. |
 | 🧙 Awk | Text‑Zauberer | Macht alles, was Sed nicht kann. |
+
+## Teil 2 — Windows / Desktop / GUI (51–100)
+
+| Begriff | Deutsche „Übersetzung“ | Lustige Erklärung |
+|--------|--------------------------|-------------------|
+| 💙 Blue Screen of Death | Blauer Todesbildschirm | Windows sagt: „Ich bin raus. Viel Glück.“ |
+| 🧩 DLL Hell | DLL‑Hölle | Wo Bibliotheken hingehen, um dich zu ärgern. |
+| 🧙 God Mode | Gott‑Modus | Alle Einstellungen auf einmal. Du bist jetzt Admin‑Gott. |
+| 📝 Sticky Notes | Klebezettel | Digitale Post‑its, die nie abfallen. |
+| 🔐 BitLocker | Bit‑Schloss | Wenn du das Passwort vergisst, ist die Platte nur noch Deko. |
+| 🧽 Shadow Copy | Schattenkopie | Windows macht heimlich Backups, falls du Mist baust. |
+| ✂️ Snipping Tool | Schnipp‑Werkzeug | Screenshot‑Schere für alles. |
+| 🧯 Hotfix | Heiß‑Fix | Feuerwehr‑Patch. Löscht akute Brände. |
+| 🧊 Safe Mode | Sicherheitsmodus | Windows im Schlafanzug: nur das Nötigste läuft. |
+| 🧱 Sandbox | Sandkasten | Programme dürfen spielen, aber nichts kaputt machen. |
+| 🧹 Disk Cleanup | Festplatten‑Besen | Fegt alten Datenmüll weg. |
+| 🧊 Hibernate | Winterschlaf | PC schläft tief und fest. |
+| 💤 Sleep Mode | Schlafmodus | PC macht ein Nickerchen. |
+| 🧙‍♂️ Wizard | Zauberer | Installations‑Magier, der dich durchklickt. |
+| 🧼 Clean Boot | Sauberstart | Windows ohne Ballast. |
+| 🧪 Compatibility Mode | Kompatibilitäts‑Modus | „Ich tue so, als wäre ich Windows XP.“ |
+| 🧊 Frozen App | Eingefrorene App | „Ich reagiere nicht mehr. Und jetzt?“ |
+| 🧯 Task Manager | Prozess‑Feuerwehr | Löscht Programme, die brennen. |
+| 🧱 UAC Prompt | Türsteher | „Bist du sicher, dass du das darfst?“ |
+| 🧊 System Restore | Zeitmaschine | Zurück in die Vergangenheit. |
+| 🧪 Event Viewer | Ereignis‑Spion | Windows erzählt dir, was schiefging. |
+| 🧲 Device Manager | Geräte‑Domteur | Zähmt widerspenstige Hardware. |
+| 🧊 Windows Update | Update‑Roulette | „Heute funktioniert alles… oder auch nicht.“ |
+| 🧯 Patch Tuesday | Flick‑Dienstag | Microsofts wöchentlicher Reparaturtag. |
+| 🧱 Registry Hive | Registry‑Bienenstock | Wo Windows seine Geheimnisse speichert. |
+| 🧊 Roaming Profile | Wanderprofil | Dein Profil geht mit dir auf Reisen. |
+| 🧪 Group Policy | Gruppen‑Regeln | Der Chef bestimmt, was du darfst. |
+| 🧲 Hyper‑V | Hyper‑Virtualisierung | Windows spielt Rechenzentrum. |
+| 🧊 Offline Files | Offline‑Dateien | Dateien, die so tun, als wären sie online. |
+| 🧯 Error 404 (Windows Style) | Datei‑verloren | „Ich weiß nicht, wo das ist.“ |
+| 🧊 Disk Defragmentation | Daten‑Tetris | Windows sortiert deine Dateien hübsch an. |
+| 🧪 Reliability Monitor | Zuverlässigkeits‑Thermometer | Zeigt, wie oft dein PC Drama macht. |
+| 🧱 Windows Firewall | Feuerwand | Der Türsteher, der manchmal zu streng ist. |
+| 🧊 Safe Eject | Sicheres Entfernen | „Bitte zieh mich nicht einfach raus!“ |
+| 🧯 Error Reporting | Fehler‑Petzer | Meldet Microsoft, was du kaputt gemacht hast. |
+| 🧊 Windows Hello | Gesichtserkennung | „Ich kenne dich! Komm rein.“ |
+| 🧪 Sysinternals | Windows‑Werkzeugkoffer | Für Leute, die wissen, was sie tun. |
+| 🧲 PowerShell | Kraft‑Shell | Windows‑Magie für Profis. |
+| 🧊 Sticky Keys | Klebe‑Tasten | Wenn du SHIFT zu oft drückst, passiert Magie. |
+| 🧯 Windows Repair Mode | Reparatur‑Modus | Windows versucht, sich selbst zu heilen. |
+| 🧊 Temp Folder | Temporärer Müllhaufen | Wo Dateien hingehen, um vergessen zu werden. |
+| 🧪 Windows Insider | Windows‑Testpilot | Du bekommst Updates, bevor sie kaputtgehen. |
+| 🧱 NTFS Permissions | Rechte‑Dschungel | „Wer darf was?“ – Chaos garantiert. |
+| 🧊 System32 | System‑Herz | Lösche es nicht. Wirklich nicht. |
+| 🧯 BlueLight Filter | Blaulicht‑Brille | Windows schützt deine Augen. |
+| 🧊 Virtual Desktop | Schreibtisch‑Multiplikator | Mehr Platz für Chaos. |
+| 🧪 Windows Subsystem for Linux | Linux‑im‑Fenster | Windows spielt Linux. |
+| 🧲 Bit Rot | Daten‑Verrottung | Dateien altern wie Käse. |
+| 🧊 Windows Boot Manager | Start‑Dirigent | Entscheidet, was zuerst hochfährt. |
+
+
